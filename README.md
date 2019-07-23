@@ -7,7 +7,7 @@ An API wrapper for DigitalOcean's Spaces object storage designed for easy use.
 ### Installation
 * **Using Composer**:
 ```sh
-composer require sociallydev/spaces-api:dev-master
+composer require codejunkieio/spaces-api:dev-master
 ```
 
 ### Connecting
